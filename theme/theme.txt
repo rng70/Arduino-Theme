@@ -95,13 +95,13 @@ editor.reserved_word.style = #C678DD,plain
 editor.literal1.style = #61AFEF,plain
 
 # p5 built in variables: e.g. mouseX, width, pixels
-editor.literal2.style = #61AFEF,plain
-editor.variable.style = #61AFEF,plain
-editor.reserved_word_2.style = #61AFEF,plain
-editor.literal_boolean.style = #61AFEF,plain
-editor.literal_char.style = #61AFEF,plain
-editor.literal_string_double_quote.style = #61AFEF,plain
-editor.preprocessor.style = #98C379,plain
+editor.literal2.style = #00ff00,bold
+editor.variable.style = #00ff00,bold
+editor.reserved_word_2.style = #00ff00,bold
+editor.literal_boolean.style = #00ff00,bold
+editor.literal_char.style = #00ff00,bold
+editor.literal_string_double_quote.style = #00ff00,bold
+editor.preprocessor.style = #98C379,bold
 
 # http://www.arduino.cc/ - GET RID OF UNDERLINE!
 editor.url.style = #81A421,plain
